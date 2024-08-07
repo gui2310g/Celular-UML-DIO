@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Celular-UML-DIO
 
 Realização do desafio Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet do Bootcamp DIO Claro - Java
@@ -121,3 +122,6 @@ public class NavegadorInternet {
             iphone.desligar();
         }
     }
+=======
+# Celular-UML-DIO
+>>>>>>> 4895436da50dc30d64f0740312c13ad9d30c7776
