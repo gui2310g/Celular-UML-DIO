@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Celular-UML-DIO
 
 Realização do desafio Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet do Bootcamp DIO Claro - Java
@@ -10,7 +10,7 @@ Com Spring Boot
 O desafio foi feito de um contexto diferente, utilizando uma interface Celular onde tem o CelularBase como implementação com as classes Reprodutor Musical, Aparelho Telefonico e Navegador de Internet
 
 
-<img src="https://cdn2.steamgriddb.com/grid/6dd1ae86071c9958e41bfbcf40079613.png" alt="imagem url />
+![UML](https://github.com/user-attachments/assets/9444ccbc-19ab-4fa1-8a4f-e3b541d39502)
 
 
 
@@ -122,6 +122,5 @@ public class NavegadorInternet {
             iphone.desligar();
         }
     }
-=======
-# Celular-UML-DIO
->>>>>>> 4895436da50dc30d64f0740312c13ad9d30c7776
+
+
